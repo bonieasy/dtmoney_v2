@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 12000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "CPFL",
+      "type": "outcome",
+      "category": "Conta",
+      "price": 400,
+      "createdAt": "2022-08-29T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Hundstuer",
+      "type": "outcome",
+      "category": "Stuer",
+      "price": 400,
+      "createdAt": "2022-08-29T19:36:44.505Z"
+    },
+    {
+      "description": "Imposto de Radio e Tv",
+      "price": 50,
+      "category": "Imposto",
+      "type": "outcome",
+      "createdAt": "2023-03-09T19:49:17.049Z",
+      "id": 4
+    },
+    {
+      "description": "Salario",
+      "price": 3000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2023-03-09T19:49:36.423Z",
+      "id": 5
+    },
+    {
+      "description": "Teste",
+      "price": 123,
+      "category": "Teste",
+      "type": "outcome",
+      "createdAt": "2023-03-09T19:55:14.632Z",
+      "id": 6
+    },
+    {
+      "description": "Aluguel",
+      "price": 1890,
+      "category": "Moradia",
+      "type": "outcome",
+      "createdAt": "2023-03-09T21:12:32.095Z",
+      "id": 7
+    }
+  ]
+}
